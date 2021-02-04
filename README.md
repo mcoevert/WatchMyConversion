@@ -21,3 +21,6 @@ This repository provides API documentation and examples to connection your conve
 ## Pre-build scripts
 - [Google Analytics](examples/google-analytics/README.md)
 - Google BigQuery
+
+## Contribution
+Feel free to submit issues, feature requests or questions!
