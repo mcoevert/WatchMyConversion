@@ -7,11 +7,18 @@
 body {
   font-family: 'Work Sans', sans-serif;
   color: #282828;
+  font-weight: 400;
 }
 
 .page-header {
   background-image: none;
   background-color: #282828;
+
+  .logo {
+    margin-bottom: 1em;
+    line-height: 1;
+    display: inline-block;
+  }
 }
 
 @media screen and (min-width: 64em) {
@@ -20,6 +27,11 @@ body {
     font-size: 25px;
   }
 }
+
+.project-name {
+  margin-bottom: 1em;
+}
+
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
   color: #282828;
 }
@@ -57,7 +69,6 @@ a:hover {
   display: flex;
   justify-content: center;
   align-items: center;
-  padding-top: 20px;
 }
 
 .store-btn {
@@ -71,7 +82,7 @@ a:hover {
   background: white;
   border-radius: 3px;
   color: #282828;
-  margin: 0 10px;
+  margin: 0 0.5em;
   text-decoration: none;
 
   &:hover{

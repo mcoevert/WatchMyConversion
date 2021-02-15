@@ -1,15 +1,15 @@
-# Watch My Conversion
-This repository provides API documentation and examples to connection your conversion to the Watch My Conversion app.
+# WatchMyConversion
+This repository provides API documentation and examples to connection your conversion to the WatchMyConversion app.
 
 <a target="_blank" href="https://apps.apple.com/us/app/watchmyconversion/id1536934658"><img src="docs/assets/img/apple-store-badge.png" alt="Download on the App Store" height="50"/></a>
 <a target="_blank" href="https://play.google.com/store/apps/details?id=nl.wewantweb.watchmyconversion"><img src="docs/assets/img/google-play-badge.png" alt="Get on Google Play" height="50"/></a>
 
 
 ## General approach
-1. Download the Watch My Conversion app and login
+1. Download the WatchMyConversion app and login
 2. Add a conversion
 3. Copy the conversion ID (tap will copy to clipboard)
-4. Use this conversion ID to post your conversion to Watch My Conversion using the API or pre-build scripts
+4. Use this conversion ID to post your conversion to WatchMyConversion using the API or pre-build scripts
 5. The conversion will be shown in the app
 
 ## API
