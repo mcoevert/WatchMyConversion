@@ -1,6 +1,10 @@
 # WatchMyConversion
 This repository provides API documentation and examples to connection your conversion to the WatchMyConversion app.
 
+<a target="_blank" href="https://apps.apple.com/us/app/watchmyconversion/id1536934658"><img src="docs/assets/img/apple-store-badge.png" alt="Download on the App Store" height="50"/></a>
+<a target="_blank" href="https://play.google.com/store/apps/details?id=nl.wewantweb.watchmyconversion"><img src="docs/assets/img/google-play-badge.png" alt="Get on Google Play" height="50"/></a>
+
+
 ## General approach
 1. Download the WatchMyConversion app and login
 2. Add a conversion

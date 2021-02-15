@@ -7,3 +7,21 @@
 body {
   font-family: 'Work Sans', sans-serif;
 }
+
+.page-header {
+  background-image: none;
+  background-color: #282828;
+}
+
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+  color: #282828;
+}
+
+.centered {
+  text-align: center;
+}
+
+.store-btn {
+  display: inline-block;
+  vertical-align: top;
+}
