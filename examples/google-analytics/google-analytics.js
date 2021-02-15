@@ -1,9 +1,9 @@
 function start() {
   // Profile ID of the analytics report (Not the UA-XXXXXX number!)
   var profileId = ""; //VIEW ID
-  // Copy the conversion ID from the WatchMyConversion app
+  // Copy the conversion ID from the Watch My Conversion app
   var conversionIdToday = "";
-  // Copy the conversion ID from the WatchMyConversion app
+  // Copy the conversion ID from the Watch My Conversion app
   var conversionIdYesterday = "";
   var transactionsTodayID = "";
   var transactionsYesterdayID = "";

@@ -1,5 +1,5 @@
-# Google Analytics integration for WatchMyConversion
-This examples explains how to intergrate Google Analytics with WatchMyConversion using a scheduled script hosted on http://script.google.com/
+# Google Analytics integration for Watch My Conversion
+This examples explains how to intergrate Google Analytics with Watch My Conversion using a scheduled script hosted on http://script.google.com/
 
 # Implementation steps
 1. Go to http://script.google.com/

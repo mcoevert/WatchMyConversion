@@ -6,6 +6,7 @@
 
 body {
   font-family: 'Work Sans', sans-serif;
+  color: #282828;
 }
 
 .page-header {
@@ -13,15 +14,72 @@ body {
   background-color: #282828;
 }
 
+@media screen and (min-width: 64em) {
+  .project-name {
+    font-weight: 500;
+    font-size: 25px;
+  }
+}
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
   color: #282828;
+}
+
+.small-content {
+  text-align: center;
+  
+}
+
+.small {
+  font-size: 14px;
+}
+
+@media screen and (min-width: 64em) {
+  .small-content {
+    max-width: 440px;
+    margin: 0 auto;
+  }
+}
+
+a {
+  color: #282828;
+  text-decoration: underline;
+}
+
+a:hover {
+  text-decoration: none;
 }
 
 .centered {
   text-align: center;
 }
 
+.btn-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 20px;
+}
+
 .store-btn {
   display: inline-block;
   vertical-align: top;
+  width: 193px;
+  height: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: white;
+  border-radius: 3px;
+  color: #282828;
+  margin: 0 10px;
+  text-decoration: none;
+
+  &:hover{
+    opacity: 0.9;
+  }
+
+  img {
+    height: 13px;
+    margin-right: 4px;
+  }
 }
