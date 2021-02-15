@@ -76,7 +76,7 @@ a:hover {
 .store-btn {
   display: inline-block;
   vertical-align: top;
-  width: 193px;
+  width: 210px;
   height: 50px;
   display: flex;
   justify-content: center;
@@ -84,9 +84,12 @@ a:hover {
   background: white;
   border-radius: 3px;
   color: #282828;
-  margin: 0 0.5em;
+  margin-right: 1em;
   text-decoration: none;
 
+  &:last-child {
+    margin-right: 0;
+  }
   &:hover{
     opacity: 0.9;
   }
