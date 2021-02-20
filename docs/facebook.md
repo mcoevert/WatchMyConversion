@@ -2,7 +2,7 @@
   <p>In order to connect Facebook insights to your WatchMyConversion dashboard, we need access to your Facebook account.</p>
   <div class="facebook-login">
     <fb:login-button 
-      scope="public_profile,email"
+      scope="public_profile,email,ads_read"
       onlogin="checkLoginState();">
     </fb:login-button>
   </div>
